@@ -1,9 +1,8 @@
-# File: HW4A
+# File: Concentric-Squares
 # Author: Cameron Cox
 # UT EID: cpc2526
 # Course: cs303E
-#
-# Date: 9/25/2023
+
 #Description of program: Draws 10 concentric squares
 
 import turtle
